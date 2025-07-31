@@ -62,7 +62,6 @@ Breaks down persistence by student leadership involvement across multiple organi
 ![Per% for number of leaders](screenshots/page5_leader_metrics.png)
 
 ---
----
 
 ## 📈 Insight Summary: Retention & Engagement Patterns
 
