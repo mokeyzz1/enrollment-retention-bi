@@ -62,6 +62,37 @@ Breaks down persistence by student leadership involvement across multiple organi
 ![Per% for number of leaders](screenshots/page5_leader_metrics.png)
 
 ---
+---
+
+## 📈 Insight Summary: Retention & Engagement Patterns
+
+During the analysis of student involvement and persistence data, several key patterns emerged that suggest strong correlations between co-curricular engagement and student retention outcomes:
+
+### 🔹 1. Multi-Organization Involvement = Perfect Persistence  
+Students involved in **4 or more student organizations** had a **100% persistence rate**, compared to the overall rate of **95.41%**. This suggests that deeper engagement across campus correlates with stronger commitment and retention.
+
+**Recommendation**: Promote multi-org involvement—especially to underclassmen and first-year students—to improve long-term persistence rates.
+
+### 🔹 2. Student Leaders Persist at Higher Rates  
+Students identified as **leaders** within organizations showed a **99.09% persistence rate**, outperforming **non-leaders** (93.96%). This performance gap of **5.13%** highlights leadership’s potential role in boosting retention.
+
+**Recommendation**: Expand leadership training opportunities and early leadership exposure—especially for students in at-risk groups.
+
+### 🔹 3. Engagement Matters More Than GPA  
+While the **average GPA across all cohorts was 3.38**, GPA did not correlate with retention as strongly as **organizational involvement** or **leadership roles**. Students with lower GPAs but multiple org memberships still showed high persistence.
+
+**Recommendation**: Shift part of the retention focus from purely academic interventions to structured engagement programs and student org onboarding.
+
+---
+
+## 🧭 How to Use This Dashboard
+
+These insights can help university leadership:
+
+- Launch early engagement campaigns targeting low-involvement student groups  
+- Allocate more resources toward student leader mentoring and leadership pipeline programs  
+- Support policy shifts that integrate co-curricular involvement into student success strategies
+
 
 ## 📁 Repository Structure
 
